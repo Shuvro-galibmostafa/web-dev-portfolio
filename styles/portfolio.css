@@ -179,6 +179,7 @@ nav li a {
     display: flex;
     gap: 24px;
     margin-bottom: 50px;
+    text-align: justify;
 }
 
 .section-title{
